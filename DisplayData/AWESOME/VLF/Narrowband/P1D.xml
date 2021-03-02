@@ -4,7 +4,7 @@
   <ResourceID>spase://ISWI/DisplayData/AWESOME/VLF/Narrowband/P1D</ResourceID>
   <ResourceHeader>
    <ResourceName>AWESOME receiver system quick-look Narrowband Summary Charts</ResourceName>
-   <ReleaseDate>2020-11-09T16:28:29Z</ReleaseDate>
+   <ReleaseDate>2021-03-02T17:39:48Z</ReleaseDate>
    <Description>The narrowband summary chart shows amplitude and
    phase. The rows represent each transmitter-receiver path, as
    labeled in the top left corner. The four columns represent channel
@@ -42,7 +42,7 @@ The curators of WALDO are Morris Cohen (Georgia Tech) and Mark
 Golkowski (CU-Denver). We request that the following acknowledgement
 be added in any publication using data from WALDO 
 
-"VLF data are provided by the WALDO database (http://waldo.world),
+"VLF data are provided by the WALDO database (https://waldo.world),
 operated jointly by the Georgia Institute of Technology, and the
 University of Colorado Denver, using data collected from those
 institutions as well as Stanford University, and has been supported by
@@ -60,7 +60,7 @@ help analyzing and interpreting the large dataset.
    </Contact>
    <InformationURL>
     <Name>Worldwide Archive of Low-Frequency Data and Observations (WALDO)</Name>
-    <URL>http://waldo.world</URL>
+    <URL>https://waldo.world</URL>
    </InformationURL>
    <Association>
     <AssociationID>spase://GBO/NumericalData/AWESOME/VLF/PT0.02S</AssociationID>
@@ -72,7 +72,7 @@ help analyzing and interpreting the large dataset.
    <RepositoryID>spase://SMWG/Repository/WALDO</RepositoryID>
    <AccessURL>
     <Name>Worldwide Archive of Low-Frequency Data and Observations (WALDO) Narrowband Summary Charts</Name>
-    <URL>http://waldo.world/summary-and-availability-charts/#NarrowbandSummary</URL>
+    <URL>https://waldo.world/summary-and-availability-charts/#NarrowbandSummary</URL>
    </AccessURL>
    <Format>PNG</Format>
   </AccessInformation>

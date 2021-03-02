@@ -4,7 +4,7 @@
   <ResourceID>spase://ISWI/NumericalData/SipleExperiment/VLF/PT0.00004S</ResourceID>
   <ResourceHeader>
    <ResourceName>Siple Experiment broadband VLF data</ResourceName>
-   <ReleaseDate>2020-12-01T15:58:16Z</ReleaseDate>
+   <ReleaseDate>2021-03-02T17:39:48Z</ReleaseDate>
    <Description>
    The Siple Station experiment ran from 1973-1988, during which time
    a long horizontal ELF transmitter was erected over a thick ice
@@ -71,7 +71,7 @@ The curators of WALDO are Morris Cohen (Georgia Tech) and Mark
 Golkowski (CU-Denver). We request that the following acknowledgement
 be added in any publication using data from WALDO 
 
-"VLF data are provided by the WALDO database (http://waldo.world),
+"VLF data are provided by the WALDO database (https://waldo.world),
 operated jointly by the Georgia Institute of Technology, and the
 University of Colorado Denver, using data collected from those
 institutions as well as Stanford University, and has been supported by
@@ -89,18 +89,18 @@ help analyzing and interpreting the large dataset.
    </Contact>
    <InformationURL>
     <Name>Worldwide Archive of Low-Frequency Data and Observations (WALDO)</Name>
-    <URL>http://waldo.world</URL>
+    <URL>https://waldo.world</URL>
    </InformationURL>
   </ResourceHeader>
   <AccessInformation>
    <RepositoryID>spase://SMWG/Repository/WALDO</RepositoryID>
    <AccessURL>
     <Name>Worldwide Archive of Low-Frequency Data and Observations (WALDO) Broadband Data</Name>
-    <URL>http://waldo.world/broadband-data/</URL>
+    <URL>https://waldo.world/broadband-data/</URL>
    </AccessURL>
    <Format>MATLAB_4</Format>
    <Acknowledgement>VLF data are provided by the WALDO database
-   (http://waldo.world), operated jointly by the Georgia Institute of
+   (https://waldo.world), operated jointly by the Georgia Institute of
    Technology, and the University of Colorado Denver, using data
    collected from those institutions as well as Stanford University,
    and has been supported by various US government grants from the

@@ -5,7 +5,7 @@
   <ResourceHeader>
    <ResourceName>AWESOME receiver system broadband VLF data</ResourceName>
    <DOI>https://doi.org/10.48322/fzcf-f191</DOI>
-   <ReleaseDate>2020-09-28T21:24:52Z</ReleaseDate>
+   <ReleaseDate>2021-03-02T17:39:48Z</ReleaseDate>
    <Description>
     The Very Low Frequency Atmospheric Weather Electromagnetic
      System for Observation, Modeling, and Education, or VLF AWESOME,
@@ -44,7 +44,7 @@ The curators of WALDO are Morris Cohen (Georgia Tech) and Mark
 Golkowski (CU-Denver). We request that the following acknowledgement
 be added in any publication using data from WALDO 
 
-"VLF data are provided by the WALDO database (http://waldo.world),
+"VLF data are provided by the WALDO database (https://waldo.world),
 operated jointly by the Georgia Institute of Technology, and the
 University of Colorado Denver, using data collected from those
 institutions as well as Stanford University, and has been supported by
@@ -67,7 +67,7 @@ help analyzing and interpreting the large dataset.
    </Contact>
    <InformationURL>
     <Name>Worldwide Archive of Low-Frequency Data and Observations (WALDO)</Name>
-    <URL>http://waldo.world</URL>
+    <URL>https://waldo.world</URL>
    </InformationURL>
    <PriorID>spase://GBO/NumericalData/AWESOME/VLF/PT0.00001S</PriorID>
   </ResourceHeader>
@@ -75,10 +75,10 @@ help analyzing and interpreting the large dataset.
    <RepositoryID>spase://SMWG/Repository/WALDO</RepositoryID>
    <AccessURL>
     <Name>Worldwide Archive of Low-Frequency Data and Observations (WALDO) Broadband Data</Name>
-    <URL>http://waldo.world/broadband-data/</URL>
+    <URL>https://waldo.world/broadband-data/</URL>
    </AccessURL>
    <Format>MATLAB_4</Format>
-   <Acknowledgement>VLF data are provided by the WALDO database (http://waldo.world), operated jointly by the Georgia Institute of Technology, and the University of Colorado Denver, using data collected from those institutions as well as Stanford University, and has been supported by various US government grants from the NSF, NASA, and the Department of Defense.</Acknowledgement>
+   <Acknowledgement>VLF data are provided by the WALDO database (https://waldo.world), operated jointly by the Georgia Institute of Technology, and the University of Colorado Denver, using data collected from those institutions as well as Stanford University, and has been supported by various US government grants from the NSF, NASA, and the Department of Defense.</Acknowledgement>
   </AccessInformation>
   <InstrumentID>spase://SMWG/Instrument/AWESOME/VLF</InstrumentID>
   <MeasurementType>Waves.Passive</MeasurementType>

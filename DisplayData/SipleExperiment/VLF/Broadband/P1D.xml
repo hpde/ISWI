@@ -4,7 +4,7 @@
   <ResourceID>spase://ISWI/DisplayData/SipleExperiment/VLF/Broadband/P1D</ResourceID>
   <ResourceHeader>
    <ResourceName>Siple Experiment VLF Data Quick-look Broadband Summary Charts</ResourceName>
-   <ReleaseDate>2020-12-29T13:19:05</ReleaseDate>
+   <ReleaseDate>2021-03-02T17:39:48Z</ReleaseDate>
    <Description>The broadband summary chart stitches together the
    first second of each hour in the day. For VLF data  (100 kHz
    sampling), the spectrogram will display from 0.3 kHz to 50
@@ -34,7 +34,7 @@ The curators of WALDO are Morris Cohen (Georgia Tech) and Mark
 Golkowski (CU-Denver). We request that the following acknowledgement
 be added in any publication using data from WALDO 
 
-"VLF data are provided by the WALDO database (http://waldo.world),
+"VLF data are provided by the WALDO database (https://waldo.world),
 operated jointly by the Georgia Institute of Technology, and the
 University of Colorado Denver, using data collected from those
 institutions as well as Stanford University, and has been supported by
@@ -52,7 +52,7 @@ help analyzing and interpreting the large dataset.
    </Contact>
    <InformationURL>
     <Name>Worldwide Archive of Low-Frequency Data and Observations (WALDO)</Name>
-    <URL>http://waldo.world</URL>
+    <URL>https://waldo.world</URL>
    </InformationURL>
    <Association>
     <AssociationID>spase://ISWI/NumericalData/SipleExperiment/VLF/PT0.00004S</AssociationID>
@@ -63,7 +63,7 @@ help analyzing and interpreting the large dataset.
    <RepositoryID>spase://SMWG/Repository/WALDO</RepositoryID>
    <AccessURL>
     <Name>WALDO Quick-Look Plots</Name>
-    <URL>http://waldo.world/summary-and-availability-charts/#BroadbandSummary</URL>
+    <URL>https://waldo.world/summary-and-availability-charts/#BroadbandSummary</URL>
    </AccessURL>
    <Format>PNG</Format>
   </AccessInformation>
