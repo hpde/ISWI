@@ -1,6 +1,6 @@
 # ISWI 
 
-International Space Weather Initiative
+International Space Weather Initiative (ISWI)
 
 Visit the [website](http://www.iswi-secretariat.org/) [http://www.iswi-secretariat.org/]
 
