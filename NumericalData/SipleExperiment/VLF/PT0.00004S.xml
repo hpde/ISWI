@@ -4,7 +4,8 @@
   <ResourceID>spase://ISWI/NumericalData/SipleExperiment/VLF/PT0.00004S</ResourceID>
   <ResourceHeader>
    <ResourceName>Siple Experiment broadband VLF data</ResourceName>
-   <ReleaseDate>2021-03-02T17:39:48Z</ReleaseDate>
+   <DOI>https://doi.org/10.48322/44y4-4j02</DOI>
+   <ReleaseDate>2021-06-14T22:37:42Z</ReleaseDate>
    <Description>
    The Siple Station experiment ran from 1973-1988, during which time
    a long horizontal ELF transmitter was erected over a thick ice
@@ -83,6 +84,11 @@ curators request, but do not require, to be contacted to discuss the
 possibility of joint authorship, with the WALDO curators providing
 help analyzing and interpreting the large dataset. 
    </Acknowledgement> 
+   <PublicationInfo>
+      <Authors>Helliwell, Robert A.; Katsufrakis, John P.; Li, J. D.; Spasojevic, M.; Harid, V.; Cohen, Morris B.; Golkowski, Mark; Inan, Umran S..</Authors>
+      <PublicationDate>2020-01-01T00:00:00</PublicationDate>
+      <PublishedBy>Worldwide Archive of Low frequency Data and Observations (WALDO)</PublishedBy>
+   </PublicationInfo>
    <Contact>
     <PersonID>spase://SMWG/Person/Morris.Cohen</PersonID>
     <Role>ArchiveSpecialist</Role>
