@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_6_0.xsd">
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2.6.0.xsd">
    <Version>2.6.0</Version>
-   <Service>
-      <ResourceID>spase://ISWI/Service/RION/RayTRIX/RayTracing.through.RealisticIonosphere.eXplorer</ResourceID>
+   <Model>
+      <ResourceID>spase://ISWI/Model/RION/RayTRIX/RayTracing.through.RealisticIonosphere.eXplorer</ResourceID>
       <ResourceHeader>
          <ResourceName>Ray Tracing through Realistic Ionosphere eXplorer
 	 (RayTRIX)</ResourceName>
          <ReleaseDate>2023-07-28T13:56:36</ReleaseDate>
+         <RevisionHistory>
+            <RevisionEvent>
+               <ReleaseDate>2023-11-17T20:19:00</ReleaseDate>
+               <Note>Changed RayTRIX from a Service to a
+	     Model, added PriorID, etc. LNG.</Note>
+            </RevisionEvent>
+         </RevisionHistory>
          <Description>Ray Tracing through Realistic Ionosphere
 	 eXplorer (RayTRIX) collection contains traces of remote high
 	 frequency signal propagating through E, F1, and F2 layers of
@@ -37,7 +44,7 @@
       Please read Rules of the Road
       https://giro.uml.edu/didbase/RulesOfTheRoad.html for license
       information and refer to Acknowledgements List
-      https://giro.uml.edu/didbase/acknowledgements.htm to use GIRO
+      https://giro.uml.edu/didbase/acknowledgements.html to use GIRO
       data per license requirements.</Acknowledgement>
          <Contact>
             <PersonID>spase://SMWG/Person/Bodo.W.Reinisch</PersonID>
@@ -67,11 +74,17 @@
             <URL>https://giro.uml.edu/rix/ff-aoa/</URL>
             <Description>Fixed Frequency Angle of Arrival</Description>
          </InformationURL>
+         <PriorID>spase://ISWI/Service/RION/RayTRIX/RayTracing.through.RealisticIonosphere.eXplorer</PriorID>
       </ResourceHeader>
-      <AccessURL>
-         <Name>RayTRIX Oblique Ionograms</Name>
-         <URL>https://giro.uml.edu/rix/oi-synth/</URL>
-         <Description>Oblique Trace Synthesizer</Description>
-      </AccessURL>
-   </Service>
+      <AccessInformationOptional>
+         <AccessURL>
+            <Name>RayTRIX Oblique Ionograms</Name>
+            <URL>https://giro.uml.edu/rix/oi-synth/</URL>
+            <Description>Oblique Trace Synthesizer</Description>
+         </AccessURL>
+         <Format>PNG</Format>
+         <Format>Text</Format>
+      </AccessInformationOptional>
+      <ModelType>Empirical</ModelType>
+   </Model>
 </Spase>
