@@ -12,6 +12,10 @@
                <Note>Edited Acknowledgement, AccessURL, InformationURL, and URL in
 	       Description, added Contact and updated SPASE version. LNG</Note>
             </RevisionEvent>
+          </RevisionEvent>
+             <ReleaseDate>2024-05-03T00:00:00</ReleaseDate>
+             <Note>Moved GBO to ISWI plus update revisionhistory, SAB</Note>
+          </RevisionEvent>
          </RevisionHistory>
          <Description>Standard ionogram-derived characteristics obtained by Global Ionospheric Radio Observatory (GIRO) operated by University of Massachusetts Lowell. The list of standard URSI characteristics that can be derived from ionograms can be found in the SAO.XML Data Model Specification for standard ionosonde data exchange, Appendix C, https://ulcar.uml.edu/SAOXML/. In order to request the characteristics values from GIRO, it is necessary to call DIDBGetValues() servlet at GIRO server using standard HTTP call that returns a text document. The values in the document are calculated using automatic or manual interpretation of ionogram images. Each measurement is accompanied by a confidence score value (from 0 to 100, 100 is best autoscaled confidence or data obtained manually) and a set of two QD letters (qualitative and descriptive letters per URSI ionogram interpretation manual). When QD letters are set to //, reported value is obtained automatically, all other combinations of the letters correspond to manual scaling.</Description>
          <Acknowledgement>Heavy investments of time, effort, expertise,

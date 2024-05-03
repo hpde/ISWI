@@ -11,6 +11,9 @@
                <ReleaseDate>2023-07-28T13:02:30</ReleaseDate>
                <Note>Edited Acknowledgement, AccessURL, InformationURL, added Contact, SpatialCoverage and updated SPASE version. LNG</Note>
             </RevisionEvent>
+               <ReleaseDate>2024-05-03T00:00:00</ReleaseDate>
+               <Note>Moved GBO to ISWI plus update revisionhistory, SAB</Note>
+            </RevisionEvent>
          </RevisionHistory>
          <Description>Collection of GIRO ionogram images at University of Massachusetts Lowell, covering selected ionosonde stations and periods of time from 1987-01-01 to current time, including 42 real-time data feeds. Total number of GIRO locations represented is 68 as of February 14, 2012. Access to images is arranged via a webpage containing a browsable data availability table. GIRO ionograms are visualized by plotting images in which received signal strength (color scale) is a function of echo delay (virtual range in vertical scale) and ionosonde frequency (horizontal scale) of the transmitted pulses. Echoes that can be used to derive remote vertical electron-density profiles, appear as discrete traces on ionograms. The ionogram traces are extracted (scaled) using image recognition software to obtain ionogram-derived characteristics of ionospheric plasma. Extracted traces and a table of major ionospheric characteristics are superimposed on the ionogram image</Description>
          <Acknowledgement>Heavy investments of time, effort, expertise,

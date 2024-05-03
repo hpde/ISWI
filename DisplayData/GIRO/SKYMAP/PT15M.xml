@@ -12,6 +12,10 @@
                <Note>Edited Acknowledgement, AccessURL, InformationURL,
 	  added Contact, SpatialCoverage and updated SPASE version. LNG</Note>
             </RevisionEvent>
+          </RevisionEvent>
+             <ReleaseDate>2024-05-03T00:00:00</ReleaseDate>
+             <Note>Moved GBO to ISWI plus update revisionhistory, SAB</Note>
+          </RevisionEvent>
          </RevisionHistory>
          <Description>Collection of GIRO Doppler skymap images at University of Massachusetts Lowell, covering selected ionosonde stations and periods of time from 1993-07-20 to current time, including 28 real-time feeds. Total number of GIRO locations represented is 50 as of February 14, 2012. Access to images is arranged via a webpage containing a browsable data availability table. GIRO skymaps are visualized by plotting received echoes in the polar coordinate system using echo zenith and azimuth information. Color scale is used to represent Doppler Velocity of the signal reflection area in the ionosphere. Additionally, observed echoes on the skymap are used to derived zenith and azimuth of the ionospheric tilt, as well as vertical and horizontal components of the bulk ionospheric motion across the sounder location.</Description>
          <Acknowledgement>	Heavy investments of time, effort, expertise,
