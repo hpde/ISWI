@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" :q
-    xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_6_0.xsd">
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_6_0.xsd">
    <Version>2.6.0</Version>
    <NumericalData>
       <ResourceID>spase://ISWI/NumericalData/GIRO/CHARS/PT15M</ResourceID>
@@ -13,11 +12,7 @@
                <Note>Edited Acknowledgement, AccessURL, InformationURL, and URL in
 	       Description, added Contact and updated SPASE version. LNG</Note>
             </RevisionEvent>
-<<<<<<< HEAD
-            <RevisionEvent>
-=======
           <RevisionEvent>
->>>>>>> 1e896c34fe34c2055a579cf22a23fe90f53b371f
              <ReleaseDate>2024-05-03T00:00:00</ReleaseDate>
              <Note>Moved GBO to ISWI plus update revisionhistory, SAB</Note>
           </RevisionEvent>
